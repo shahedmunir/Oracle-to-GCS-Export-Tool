@@ -1,5 +1,5 @@
 # Oracle-to-GCS-Export-Tool
-# A custom tool built to export data from Oracle 11 or 12 to Google CLoud Services Buckets and BQ , The tool will use various methods to extract data from various Oracle and MSSQL Databases and transport to a GCS Bucket
+# A custom tool built to export data from Oracle 11 or 12 to Google Cloud Services Buckets and BQ , This custom tool will use various methods to extract data from various Oracle and MSSQL Databases and transport to a GCS Bucket
 
 .This Custom Tool will create tables in Google Cloud Services Big Query Database Automatically
 
